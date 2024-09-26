@@ -7,9 +7,9 @@ My name is Nelson, i like so much programing and i'm from Venezuela.
 ## Skills
 
 * <programming languages: Py | Js/>  
-* <Git Hub/>
-* <HTML and CSS/>
-* <DataBase (MySQL)/>
+* <Git Hub>
+* <HTML and CSS>
+* <DataBase (MySQL)>
 * <More Skills SOON 😉/>
 
 ## Contact
