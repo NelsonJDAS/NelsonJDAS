@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi ✋
 
-<!--
-**NelsonJDAS/NelsonJDAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nelson, i like so much programing and i'm from Venezuela.
 
-Here are some ideas to get you started:
+img
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* programming languages: Py | Js  
+* Git Hub
+* HTML and CSS
+* DataBase (MySQL)
+* More Skills SOON 😉
+
+## Contact
+
+Can you contact me at:
+
+* Linkeding (https://www.linkedin.com/in/nelson-de-abreu-ab87042b6);
