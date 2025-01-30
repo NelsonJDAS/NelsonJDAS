@@ -6,10 +6,12 @@ My name is Nelson, i like so much programing and i'm from Venezuela.
 
 ## Skills
 
-* programming languages: Py | Js
+* programming languages: Python | JavaScript
 * Git Hub
 * HTML and CSS
 * DataBase (MySQL)
+* DataBase (SQLAlchemy)
+* React
 * More Skills SOON 😉
 
 ## Contact
